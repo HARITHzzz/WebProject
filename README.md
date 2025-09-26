@@ -1,4 +1,14 @@
-# WebProject
+# Team Webpage Project
+
+## 📖 Introduction
+This project is a collaborative website created by a team of four.  
+It showcases a **main homepage** and **four individual homepages** (one for each team member) built with **HTML** and **CSS** only—no external frameworks required.  
+The goal is to demonstrate basic front-end development skills and cohesive design across multiple pages.
+
+---
+
+## 📂 File Structure
+
 
 
 > **Tip:** Replace `member1.html`, `member2.html`, etc. with your actual filenames if they differ.
