@@ -1,56 +1,65 @@
-# 📚 Team Webpage Project
+# 🌐 Group 5L-A Webpage Project
+
+## 🏫 Course Information
+- **Course:** CCT1114 – Introduction to Computing Tech  
+- **Lecturer:** Mohd Norshahriel Bin Abd Rani  
+- **Lab Instructor:** Angeline Pang  
+
+---
 
 ## 📝 Introduction
-This is a collaborative website created by a team of four:
-- **MUHAMMAD FAYED BIN MOHD FAZAL**
-- **MUHAMMAD ADAM HARRIS BIN AZHAR**
-- **CHENG CHIN KIET**
-- **JOSHUA WONG HOCK SING**
+This project is a team-built website created using **pure HTML and CSS**.  
+It features:
+- **One main homepage** as the entry point.
+- **Four individual homepages**, one for each team member.  
+All pages are connected through internal links for smooth navigation.
 
-The site consists of a **main homepage** and **four individual homepages**, all connected through internal links.  
-Built entirely with **HTML** and **CSS**, the project demonstrates clean design, responsive layout, and simple navigation.
+**Team Members (Group 5L-A)**  
+- MUHAMMAD FAYED BIN MOHD FAZAL  
+- MUHAMMAD ADAM HARRIS BIN AZHAR  
+- CHENG CHIN KIET  
+- JOSHUA WONG HOCK SING  
 
 ---
 
 ## 📂 File Structure
 
-> **Tip:** Update the filenames above if your actual HTML files use different names.
+> Rename the individual HTML files above if your actual filenames differ.
 
 ---
 
 ## ▶️ Files to Open
-- **Executable / Entry File:** `index.html`  
-  Open this file first; it serves as the starting point of the site.
+- **Executable / Starting File:** `index.html`  
+  Double-click or open this file in a web browser to launch the site.
 
-- Each team member’s page (`fayed.html`, `adam.html`, `cheng.html`, `joshua.html`) is linked from the main homepage and can also be opened directly in a browser.
+- **Individual Pages:** `fayed.html`, `adam.html`, `cheng.html`, `joshua.html`  
+  These can also be opened directly but are linked from the main homepage for easy navigation.
 
 ---
 
-## 🚀 How to Run the Website
-1. **Download or Clone** the entire project folder from the repository.
-2. Locate and double-click **`index.html`**.  
-   Your default web browser will automatically launch the main homepage.
-3. Use the navigation links to explore each member’s individual page.
+## 🚀 How to Run
+1. **Download or Clone** the entire repository to your computer.  
+2. Open the folder and **double-click `index.html`** (or right-click → *Open With* → your preferred browser).  
+3. Navigate through the internal links to visit each member’s page.  
 
-No build process or external dependencies are required—this is pure HTML and CSS.
+No additional setup or server is required—everything runs locally in any modern browser.
 
 ---
 
 ## 💡 Notes
-- For the best viewing experience, use a modern browser such as Chrome, Firefox, Edge, or Safari.
-- All pages share the same stylesheet for a consistent look and feel.
+- The site is responsive and optimized for Chrome, Edge, Firefox, and Safari.  
+- Make sure the `css/` and `images/` folders remain in the same directory as the HTML files so that styles and images load correctly.
 
 ---
 
-### 👥 Team Members
-| Name                                | Role / Page |
-|--------------------------------------|-------------|
-| **MUHAMMAD FAYED BIN MOHD FAZAL**    | Personal homepage: `fayed.html` |
-| **MUHAMMAD ADAM HARRIS BIN AZHAR**   | Personal homepage: `adam.html`  |
-| **CHENG CHIN KIET**                  | Personal homepage: `cheng.html` |
-| **JOSHUA WONG HOCK SING**            | Personal homepage: `joshua.html` |
+### 👥 Credits
+| Name                                | Page File  |
+|--------------------------------------|------------|
+| **MUHAMMAD FAYED BIN MOHD FAZAL**    | `fayed.html`  |
+| **MUHAMMAD ADAM HARRIS BIN AZHAR**   | `adam.html`   |
+| **CHENG CHIN KIET**                  | `cheng.html`  |
+| **JOSHUA WONG HOCK SING**            | `joshua.html` |
 
 ---
 
-Enjoy exploring our collaborative project!
-
+© 2025 Group 5L-A – CCT1114 Introduction to Computing Tech
