@@ -18,21 +18,15 @@ All pages are connected through internal links for smooth navigation.
 - MUHAMMAD FAYED BIN MOHD FAZAL  
 - MUHAMMAD ADAM HARRIS BIN AZHAR  
 - CHENG CHIN KIET  
-- JOSHUA WONG HOCK SING  
-
----
-
-## 📂 File Structure
-
-> Rename the individual HTML files above if your actual filenames differ.
+- JOSHUA WONG HOCK SING 
 
 ---
 
 ## ▶️ Files to Open
-- **Executable / Starting File:** `index.html`  
+- **Executable / Starting File:** `main_page.html`  
   Double-click or open this file in a web browser to launch the site.
 
-- **Individual Pages:** `fayed.html`, `adam.html`, `cheng.html`, `joshua.html`  
+- **Individual Pages:** `Fayedspartfinal.html`, `Harris.html`, `Cheng.html`, `joshua.html`  
   These can also be opened directly but are linked from the main homepage for easy navigation.
 
 ---
@@ -49,16 +43,6 @@ No additional setup or server is required—everything runs locally in any moder
 ## 💡 Notes
 - The site is responsive and optimized for Chrome, Edge, Firefox, and Safari.  
 - Make sure the `css/` and `images/` folders remain in the same directory as the HTML files so that styles and images load correctly.
-
----
-
-### 👥 Credits
-| Name                                | Page File  |
-|--------------------------------------|------------|
-| **MUHAMMAD FAYED BIN MOHD FAZAL**    | `fayed.html`  |
-| **MUHAMMAD ADAM HARRIS BIN AZHAR**   | `adam.html`   |
-| **CHENG CHIN KIET**                  | `cheng.html`  |
-| **JOSHUA WONG HOCK SING**            | `joshua.html` |
 
 ---
 
